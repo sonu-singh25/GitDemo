@@ -1,4 +1,4 @@
-I have started to learn again 
-Last Working Date : 25th Sept'25
-Start Date: 13th Oct'25
-Total break : 17 days
+These changes are created on this newly created branch and is an exmaple of checkout of how branching in git is working
+Hope you had a good learning series and will continue to explore more on git
+Thanks & Regards,
+Sonu
