@@ -1,4 +1,0 @@
-These changes are created on this newly created branch and is an exmaple of checkout of how branching in git is working
-Hope you had a good learning series and will continue to explore more on git
-Thanks & Regards,
-Sonu
